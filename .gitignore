@@ -38,3 +38,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# jest environment setup (contains sensitive data)
+jest.setup.env.js
